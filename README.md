@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @KaoticOne<br>🔭 I’m currently working on an all-in-one chat bot for Discord, YouTube, Twitch, Facebook, and Kick.<br>🌱 I’m currently learning DiscordJS<br>📫 Contact me at <br><br>💬 Ask me about<br><br>🤝 I’m looking for help with<br>👯 I’m looking to collaborate on<br><br><br><br><br>
+👋 Hi, I’m @KaoticOne<br>🔭 I’m currently working on an all-in-one chat bot for Discord, YouTube, Twitch, Facebook, and Kick.<br>🌱 I’m currently learning DiscordJS<br>📫 Contact me at kaoticonettv@gmail.com<br><br>💬 Ask me about<br><br>🤝 I’m looking for help with<br>👯 I’m looking to collaborate on<br><br><br><br><br>
 
 
 ## 🌐 Socials:
